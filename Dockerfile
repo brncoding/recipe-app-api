@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-MAINTAINER brnCoding App Developer
 
 ENV PYTHONUNBUFFERED 1
 
