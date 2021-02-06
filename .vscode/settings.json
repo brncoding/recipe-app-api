@@ -3,7 +3,7 @@
         "**/.git": false
     },
     "python.formatting.provider": "autopep8",
-    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
+    "python.pythonPath": "C:\\Program Files\\PythonGenericVenv\\env\\Scripts\\python.exe",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
     "python.linting.pylintEnabled": true,
